@@ -22,7 +22,7 @@ author:
   github: arun619
   linkedin: arun-raj-28239a34
   twitter: _raj9
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resumecard/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -37,7 +37,7 @@ author:
   educationHistory:
     - education1:
       organization: Model Engineering College, Cochin
-      location: Shenyang, China
+      location: Cochin, India
       degree: Bachelor
       major: Electronics and Communications Engineering
       started: 2010
@@ -62,7 +62,7 @@ author:
       percentage: 60%
     - skill3:
       name: Unity 3D
-      percentage: 50%
+      percentage: 60%
     - skill4:
       name: XAML
       percentage: 90%
@@ -73,5 +73,5 @@ author:
       name: Android UI
       percentage: 60%
     - skill7:
-      name: XBox 360 Development
+      name: XBox 360 Apps
       percentage: 80%
