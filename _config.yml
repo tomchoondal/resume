@@ -1,11 +1,10 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Arun Raj's Resume 
+description: Arun's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: http://arunraj.xyz/resumecard
+url: http://arunraj.xyz/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,72 +13,65 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Arun Raj
+  title: Interaction Developer
+  address: Cochin, India
+  email: mail@arunraj.xyz
+  link: http://arunraj.xyz
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: arun619
+  linkedin: arun-raj-28239a34
+  twitter: _raj9
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: IdentityMine Software Solutions (India) Limited
+      location: Cochin, India
+      title: Software Developer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description:
+    
   educationHistory:
     - education1:
-      organization: Northeastern University
+      organization: Model Engineering College, Cochin
       location: Shenyang, China
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Electronics and Communications Engineering
+      started: 2010
+      duration: (2010 - 2014)
+      description: 
   languages:
     - language1:
-      name: Chinese
+      name: Malayalam
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Hindi
+      proficiency: Professional
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: C#.Net
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: PhotoShop
+      percentage: 60%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Unity 3D
+      percentage: 50%
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: XAML
       percentage: 90%
+    - skill5:
+      name: WPF
+      percentage: 90%
+    - skill6:
+      name: Android UI
+      percentage: 60%
+    - skill7:
+      name: XBox 360 Development
+      percentage: 80%
