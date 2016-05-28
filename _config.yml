@@ -62,7 +62,7 @@ author:
       percentage: 60%
     - skill3:
       name: Unity 3D
-      percentage: 60%
+      percentage: 40%
     - skill4:
       name: XAML
       percentage: 90%
