@@ -27,19 +27,20 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
+      company: Valorem
+      location: Cochin, India
+      title: Software Developer
+      started: 2016
+      duration: (2016 - Present)
+      description: Software Engineer working with R & D team of valorem on Immersive experiences
+    - work2:
       company: IdentityMine Software Solutions (India) Limited
       location: Cochin, India
       title: Software Developer
       started: 2014
       duration: (2014 - 2016)
       description:
-      - work2:
-      company: Valorem
-      location: Cochin, India
-      title: Software Developer
-      started: 2016
-      duration: (2016 - Present)
-      description:
+
   educationHistory:
     - education1:
       organization: Model Engineering College, Cochin
@@ -68,7 +69,7 @@ author:
       percentage: 60%
     - skill3:
       name: Unity 3D
-      percentage: 40%
+      percentage: 60%
     - skill4:
       name: XAML
       percentage: 90%
