@@ -14,7 +14,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Arun Raj
-  title: Interactive Developer
+  title: Immersive Experiences Developer
   address: Cochin, India
   email: mail@arunraj.xyz
   link: http://arunraj.xyz
@@ -31,9 +31,15 @@ author:
       location: Cochin, India
       title: Software Developer
       started: 2014
-      duration: (2014 - Present)
+      duration: (2014 - 2016)
       description:
-    
+      - work2:
+      company: Valorem
+      location: Cochin, India
+      title: Software Developer
+      started: 2016
+      duration: (2016 - Present)
+      description:
   educationHistory:
     - education1:
       organization: Model Engineering College, Cochin
