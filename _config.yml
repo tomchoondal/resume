@@ -2,8 +2,8 @@
 title: Arun Raj's Resume 
 description: Arun's CV
 favicon: /assets/img/avatar.png
-baseurl: http://arunraj.xyz/resumecard
-url: http://arunraj.xyz/resumecard
+baseurl: http://arunraj.us/resumecard
+url: http://arunraj.us/resumecard
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -16,8 +16,8 @@ author:
   name: Arun Raj
   title: Immersive Experiences Developer
   address: Cochin, India
-  email: mail@arunraj.xyz
-  link: http://arunraj.xyz
+  email: mail@arunraj.us
+  link: http://arunraj.us
   weibo:
   github: arun619
   linkedin: arun-raj-28239a34
