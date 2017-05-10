@@ -1,7 +1,7 @@
 # Site settings
 title: Arun Raj's Resume 
 description: Arun's CV
-favicon: /assets/img/avatar.png
+favicon: /assets/img/avatar.jpg
 baseurl: http://arunraj.us/resumecard
 url: http://arunraj.us/resumecard
 rss_url: /pages/atom.xml
