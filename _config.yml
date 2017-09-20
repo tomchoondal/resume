@@ -2,8 +2,8 @@
 title: Tom Jose's Resume 
 description: Tom's CV
 favicon: /assets/img/avatar.jpg
-baseurl: http://tomchoondal.github.io/resume
-url: http://tomchoondal.github.io/resume
+baseurl: https://tomchoondal.github.io/resume
+url: https://tomchoondal.github.io/resume
 rss_url: /pages/atom.xml
 
 # Build settings
