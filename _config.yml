@@ -21,7 +21,6 @@ author:
   weibo:
   github: tomchoondal
   linkedin: tom-jose-73a66557
-  twitter: 
   gavatar: /resume/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
@@ -78,8 +77,4 @@ author:
       percentage: 70%
     - skill7:
       name: UWP
-      percentage: 80%
-  tools:
-    - skill1:
-      name: Visual Studio
       percentage: 80%
