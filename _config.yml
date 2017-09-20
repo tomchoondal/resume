@@ -13,42 +13,42 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Arun Raj
-  title: Immersive Experiences Developer
+  name: Tom Jose C
+  title: Senior UX Developer
   address: Cochin, India
-  email: mail@arunraj.us
+  email: tomjosec@gmail.com
   link: http://tomchoondal.us
   weibo:
-  github: arun619
-  linkedin: arun-raj-28239a34
-  twitter: _raj9
+  github: tomchoondal
+  linkedin: tom-jose-73a66557
+  twitter: 
   gavatar: /resume/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Valorem
+      company: Valorem Private Limited
       location: Cochin, India
-      title: Software Developer
+      title: Senior UX Developer
       started: 2016
       duration: (2016 - Present)
-      description: Software Engineer working with R & D team of valorem on Immersive experiences
+      description: Senior UX Developer working with User Experience team of valorem
     - work2:
       company: IdentityMine Software Solutions (India) Limited
       location: Cochin, India
-      title: Software Developer
-      started: 2014
-      duration: (2014 - 2016)
+      title: UX Developer
+      started: 2013
+      duration: (2013 - 2016)
       description:
 
   educationHistory:
     - education1:
-      organization: Model Engineering College, Cochin
-      location: Cochin, India
+      organization: Jyothi  Engineering College, Thrissur
+      location: Cheruthuruthy Kerala, India
       degree: Bachelor
-      major: Electronics and Communications Engineering
-      started: 2010
-      duration: (2010 - 2014)
+      major: Computer Science and Engineering
+      started: 2008
+      duration: (2008 - 2012)
       description: 
   languages:
     - language1:
@@ -56,9 +56,6 @@ author:
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Hindi
       proficiency: Professional
   programmingSkills:
     - skill1:
@@ -68,17 +65,21 @@ author:
       name: PhotoShop
       percentage: 60%
     - skill3:
-      name: Unity 3D
-      percentage: 60%
+      name: Xamarin iOs UI
+      percentage: 75%
     - skill4:
       name: XAML
-      percentage: 90%
+      percentage: 95%
     - skill5:
       name: WPF
       percentage: 90%
     - skill6:
-      name: Android UI
-      percentage: 60%
+      name: Xamarin Android UI
+      percentage: 70%
     - skill7:
-      name: XBox 360 Apps
+      name: UWP
+      percentage: 80%
+  tools:
+    - skill1:
+      name: Visual Studio
       percentage: 80%
