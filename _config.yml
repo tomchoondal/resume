@@ -1,9 +1,9 @@
 # Site settings
-title: Arun Raj's Resume 
-description: Arun's CV
+title: Tom Jose's Resume 
+description: Tom's CV
 favicon: /assets/img/avatar.jpg
-baseurl: http://arunraj.us/resumecard
-url: http://arunraj.us/resumecard
+baseurl: http://tomchoondal.github.io/resumecard
+url: http://tomchoondal.github.io/resumecard
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -17,7 +17,7 @@ author:
   title: Immersive Experiences Developer
   address: Cochin, India
   email: mail@arunraj.us
-  link: http://arunraj.us
+  link: http://tomchoondal.us
   weibo:
   github: arun619
   linkedin: arun-raj-28239a34
