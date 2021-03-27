@@ -14,7 +14,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Tom Jose C
-  title: Senior UX Developer
+  title: UX Developer
   address: Cochin, India
   email: tomjosec@gmail.com
   link: http://tomchoondal.us
@@ -31,7 +31,7 @@ author:
       location: Cochin, India
       title: Senior UX Developer
       started: 2016
-      duration: (2016 - Present)
+      duration: (2016 - 2018)
       description: Senior UX Developer working with User Experience team of valorem
     - work2:
       company: IdentityMine Software Solutions (India) Limited
@@ -39,7 +39,14 @@ author:
       title: UX Developer
       started: 2013
       duration: (2013 - 2016)
-      description:
+      description: UX Developer.
+    - work3
+      company: Baker Hughes
+      location: Cochin, India
+      title: UX Developer
+      started: 2018
+      duration: (2018- Present)
+      description: UX Developer for Cadence Internal Project.
 
   educationHistory:
     - education1:
@@ -79,3 +86,14 @@ author:
     - skill7:
       name: UWP
       percentage: 80%
+    - skill8
+      name: Illustrator
+      percentage: 65%
+    - skill9
+      name: Axure
+      percentage: 80%
+    - skill10
+      name: Figma
+      percentage: 50%
+
+
